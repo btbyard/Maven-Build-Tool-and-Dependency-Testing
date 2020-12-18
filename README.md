@@ -12,4 +12,13 @@ WHAT WAS FOUND
 I went through and wrote updated encryption methods using AES encryption keep AF's software modern and secure. I scanned AF's software and found many vulnerabilites that were labeled as "critical" and "high" vulnerabilites with high CVE counts. 
 
 WHAT WAS DONE: 
-I used Maven build tool for this, which was tough for me at first to get Maven and the Spring framework to run correctly in Eclipse IDE, but I was able to get it work. Running a maven dependancy check was very helpful.
+I used Maven build tool for this, which was tough for me at first to get Maven and the Spring framework to run correctly in Eclipse IDE, but I was able to get it work. Running a maven dependancy check was very helpful. It showed me problems and I was able to fix them. I updated all dependencies to current versions and most problems went away with aonther dependencie check. I also recomended these secure practices to AF:
+
+•	Patch your software
+•	Educate and train users
+•	Automate Routine Tasks
+•	Enforce Least Privilege
+•	Document your security policies. 
+•	Monitor user Activity
+
+
