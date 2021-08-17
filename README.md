@@ -1,4 +1,4 @@
-# CS305-Portfolio
+# Security is everyone’s responsibility
 Module 8 final portfolio submission
 
 TASK TO COMPLETE:
